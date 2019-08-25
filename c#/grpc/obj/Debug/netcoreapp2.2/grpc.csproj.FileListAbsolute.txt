@@ -1,0 +1,11 @@
+F:\golangCode\src\grpc-test\C#\grpc\bin\Debug\netcoreapp2.2\grpc.deps.json
+F:\golangCode\src\grpc-test\C#\grpc\bin\Debug\netcoreapp2.2\grpc.runtimeconfig.json
+F:\golangCode\src\grpc-test\C#\grpc\bin\Debug\netcoreapp2.2\grpc.runtimeconfig.dev.json
+F:\golangCode\src\grpc-test\C#\grpc\bin\Debug\netcoreapp2.2\grpc.dll
+F:\golangCode\src\grpc-test\C#\grpc\bin\Debug\netcoreapp2.2\grpc.pdb
+F:\golangCode\src\grpc-test\C#\grpc\obj\Debug\netcoreapp2.2\grpc.csprojAssemblyReference.cache
+F:\golangCode\src\grpc-test\C#\grpc\obj\Debug\netcoreapp2.2\grpc.csproj.CoreCompileInputs.cache
+F:\golangCode\src\grpc-test\C#\grpc\obj\Debug\netcoreapp2.2\grpc.AssemblyInfoInputs.cache
+F:\golangCode\src\grpc-test\C#\grpc\obj\Debug\netcoreapp2.2\grpc.AssemblyInfo.cs
+F:\golangCode\src\grpc-test\C#\grpc\obj\Debug\netcoreapp2.2\grpc.dll
+F:\golangCode\src\grpc-test\C#\grpc\obj\Debug\netcoreapp2.2\grpc.pdb
